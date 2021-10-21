@@ -1,8 +1,10 @@
 # BayAreaAirQuality
 Simple air quality Android app for the bay area to play around with Android Architecture components
 
-![day.png](screenshots/day.png)
-![night.png](screenshots/night.png)
+<p align="center">
+  <img src="screenshots/day.png" width="250">
+  <img src="screenshots/night.png" width="250">
+</p>
 
 App architecture is inspired by Android proposed app architecture and the MVVM model.
 
