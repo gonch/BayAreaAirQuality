@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "description": "Hayes Valley"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.424493, 37.776515]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "description": "Castro"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.435024, 37.760889]
+        }
+    }]
+}
+
